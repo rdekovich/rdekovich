@@ -19,13 +19,29 @@ I work on logistics infrastructure at [Nash](https://nash.ai). Outside of that, 
 
 ### Currently
 
-- <img src="assets/nash.jpg" height="20" align="center" /> **[Nash](https://nash.ai)** — Last-mile logistics infrastructure
-- <img src="assets/aeon.jpg" height="20" align="center" /> **[Aeon Entertainment](https://github.com/aeon-entertainment)** — Making karaoke less stuck in 2005
-- <img src="assets/altoal.jpg" height="20" align="center" /> **[Altoal](https://github.com/altoal)** — Where I build what I'm curious about
+<table>
+  <tr>
+    <td valign="middle"><img src="assets/nash.jpg" height="20" /></td>
+    <td valign="middle"><strong><a href="https://nash.ai">Nash</a></strong> — Last-mile logistics infrastructure</td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="assets/aeon.jpg" height="20" /></td>
+    <td valign="middle"><strong><a href="https://github.com/aeon-entertainment">Aeon Entertainment</a></strong> — Making karaoke less stuck in 2005</td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="assets/altoal.jpg" height="20" /></td>
+    <td valign="middle"><strong><a href="https://github.com/altoal">Altoal</a></strong> — Where I build what I'm curious about</td>
+  </tr>
+</table>
 
 ### Previously
 
-- <img src="assets/amazon.jpg" height="20" align="center" /> **[Amazon](https://amazon.com)** — ~5 years across InfoSec and AWS Marketplace
+<table>
+  <tr>
+    <td valign="middle"><img src="assets/amazon.jpg" height="20" /></td>
+    <td valign="middle"><strong><a href="https://amazon.com">Amazon</a></strong> — ~5 years across InfoSec and AWS Marketplace</td>
+  </tr>
+</table>
 
 ### Projects
 
