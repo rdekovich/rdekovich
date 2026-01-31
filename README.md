@@ -13,35 +13,13 @@
 
 ---
 
-I think about systems—how they move, break, and scale.
-
-I work on logistics infrastructure at [Nash](https://nash.ai). Outside of that, I'm building things across robotics, autonomous systems, game theory, and the human side of tech.
+I like building things and learning about how systems work. Right now I'm focused on logistics at [Nash](https://nash.ai), but I spend a lot of time on robotics, autonomous systems, geopolitics, game theory, and the human story.
 
 ### Currently
 
-<table>
-  <tr>
-    <td valign="middle"><img src="assets/nash.jpg" height="20" /></td>
-    <td valign="middle"><strong><a href="https://nash.ai">Nash</a></strong> — Last-mile logistics infrastructure</td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="assets/aeon.jpg" height="20" /></td>
-    <td valign="middle"><strong><a href="https://github.com/aeon-entertainment">Aeon Entertainment</a></strong> — Making karaoke less stuck in 2005</td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="assets/altoal.jpg" height="20" /></td>
-    <td valign="middle"><strong><a href="https://github.com/altoal">Altoal</a></strong> — Where I build what I'm curious about</td>
-  </tr>
-</table>
-
-### Previously
-
-<table>
-  <tr>
-    <td valign="middle"><img src="assets/amazon.jpg" height="20" /></td>
-    <td valign="middle"><strong><a href="https://amazon.com">Amazon</a></strong> — ~5 years across InfoSec and AWS Marketplace</td>
-  </tr>
-</table>
+- 🚚 **[Nash](https://github.com/usenash)**: Last-mile logistics infrastructure
+- 🎤 **[Aeon Entertainment](https://github.com/aeonentertainment)**: Making karaoke less stuck in 2005
+- 🌍 **[Altoal](https://github.com/usealtoal)**: Evolutionary forecasting meets game theory
 
 ### Projects
 
@@ -59,8 +37,8 @@ Coming soon.
 <details>
 <summary>A few things</summary>
 
-- Too many browser tabs open
-- Interested in: autonomous fleets, geopolitics, game theory, sociology
+- Shameless Claude user
+- From Detroit, but have been in Austin since 2021
 - The "world's greatest" is a bit aspirational
 
 </details>
