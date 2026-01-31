@@ -1,6 +1,6 @@
 # Hey, I'm Rob
 
-📍 **Austin, TX** · Senior Software Engineer @ **[Nash](https://nash.ai)**
+📍 **Austin, TX** · Senior Software Engineer @ **[Nash](https://nash.ai)** · Ex-Amazon/AWS
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,17 +15,21 @@
 
 I think about systems—how they move, break, and scale.
 
-By day, I work on logistics infrastructure at Nash, orchestrating last-mile delivery across fleets and partners. Outside of that, I'm building things at the intersection of what interests me: robotics, autonomous systems, game theory, and the messy human side of it all.
+I work on logistics infrastructure at [Nash](https://nash.ai). Outside of that, I'm building things across robotics, autonomous systems, game theory, and the human side of tech.
 
 ### Currently
 
-- **[Nash](https://nash.ai)** — Making last-mile logistics work
-- **[Aeon Entertainment](https://github.com/aeon-entertainment)** — Rethinking karaoke for the modern era
-- **[Altoal](https://github.com/altoal)** — Where I build what I'm curious about
+- <img src="assets/nash.jpg" height="20" /> **[Nash](https://nash.ai)** — Last-mile logistics infrastructure
+- <img src="assets/aeon.jpg" height="20" /> **[Aeon Entertainment](https://github.com/aeon-entertainment)** — Making karaoke less stuck in 2005
+- <img src="assets/altoal.jpg" height="20" /> **[Altoal](https://github.com/altoal)** — Where I build what I'm curious about
+
+### Previously
+
+- <img src="assets/amazon.jpg" height="20" /> **[Amazon](https://amazon.com)** — ~5 years across InfoSec and AWS Marketplace
 
 ### Projects
 
-Coming soon. Building in the open takes time.
+Coming soon.
 
 ---
 
@@ -39,9 +43,8 @@ Coming soon. Building in the open takes time.
 <details>
 <summary>A few things</summary>
 
-- Systems thinker with too many browser tabs open
+- Too many browser tabs open
 - Interested in: autonomous fleets, geopolitics, game theory, sociology
-- Believe karaoke deserves better software
 - The "world's greatest" is a bit aspirational
 
 </details>
