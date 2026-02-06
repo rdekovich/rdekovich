@@ -27,8 +27,8 @@ I'm him. Right now I'm focused on logistics at [Nash](https://nash.ai), but I sp
 
 ### Projects
 
-- 🔮 **Laplace** `private` — Scenario intelligence platform for forecasting futures
-- 📈 **Edgelord** `private` — Multi-strategy arbitrage detection and execution for prediction markets
+- 🔮 **[laplace](https://github.com/usealtoal/laplace)** `private` — Scenario intelligence platform for forecasting futures
+- 📈 **[edgelord](https://github.com/usealtoal/edgelord)** `private` — Multi-strategy arbitrage detection and execution for prediction markets
 
 ---
 
