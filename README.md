@@ -1,9 +1,10 @@
-# Hey, I'm Rob
+# Hey, I'm Rob (H.E. Pennypacker)
 
 📍 **Austin, TX** · Senior Software Engineer @ **[Nash](https://nash.ai)** · Ex-Amazon/AWS
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -13,17 +14,21 @@
 
 ---
 
-I like building things and learning about how systems work. Right now I'm focused on logistics at [Nash](https://nash.ai), but I spend a lot of time on robotics, autonomous systems, geopolitics, game theory, and the human story.
+I'm him. Right now I'm focused on logistics at [Nash](https://nash.ai), but I spend a lot of time on robotics, autonomous systems, quant, geopolitics, game theory, and the human story.
 
-### Currently
+### Current
 
-- 🚚 **[Nash](https://github.com/usenash)**: Last-mile logistics infrastructure
-- 🎤 **[Aeon Entertainment](https://github.com/aeonentertainment)**: Making karaoke less stuck in 2005
-- 🌍 **[Altoal](https://github.com/usealtoal)**: Evolutionary forecasting meets game theory
+- [@usenash](https://github.com/usenash) — Last-mile logistics infrastructure
+
+### Side Quests
+
+- [@aeonentertainment](https://github.com/aeonentertainment) — Making karaoke less stuck in 2005
+- [@usealtoal](https://github.com/usealtoal) — Where I build what I want *(named after my grandpa's boat he escaped Yugoslavia on in the 50s)*
 
 ### Projects
 
-Coming soon.
+- 🔮 **Laplace** `private` — Scenario intelligence platform for forecasting futures
+- 📈 **Edgelord** `private` — Multi-strategy arbitrage detection and execution for prediction markets
 
 ---
 
