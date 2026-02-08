@@ -14,7 +14,7 @@
 
 ---
 
-I'm him. At [Nash](https://nash.ai), I work on the infrastructure that powers last-mile delivery—AI dispatch, real-time orchestration, routing at scale. Outside of that, I'm usually thinking about robotics, autonomous systems, quant, geopolitics, game theory, and the human story.
+I'm him. Majority of my time goes into [Nash](https://nash.ai), where we're building the infrastructure that powers last-mile delivery. Outside of that, I'm usually thinking about robotics, autonomous systems, quant, geopolitics, game theory, and the human story.
 
 ### Current
 
