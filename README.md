@@ -1,4 +1,4 @@
-# Hey, I'm Rob (H.E. Pennypacker)
+# Hey, I'm Rob
 
 📍 **Austin, TX** · Senior Software Engineer @ **[Nash](https://nash.ai)** · Ex-Amazon/AWS
 
@@ -14,7 +14,7 @@
 
 ---
 
-I'm him. Right now I'm focused on logistics at [Nash](https://nash.ai), but I spend a lot of time on robotics, autonomous systems, quant, geopolitics, game theory, and the human story.
+I'm him. At [Nash](https://nash.ai), I work on the infrastructure that powers last-mile delivery—AI dispatch, real-time orchestration, routing at scale. Outside of that, I'm usually thinking about robotics, autonomous systems, quant, geopolitics, game theory, and the human story.
 
 ### Current
 
@@ -27,8 +27,7 @@ I'm him. Right now I'm focused on logistics at [Nash](https://nash.ai), but I sp
 
 ### Projects
 
-- 🔮 **[laplace](https://github.com/usealtoal/laplace)** (`private`) — Scenario intelligence platform for forecasting futures
-- 📈 **[edgelord](https://github.com/usealtoal/edgelord)** (`private`) — Multi-strategy arbitrage detection and execution for prediction markets
+- 🔐 **[Dugout](https://github.com/usealtoal/dugout)** — Git-native secrets manager
 
 ---
 
