@@ -31,6 +31,12 @@ I'm him. Majority of my time goes into [Nash](https://nash.ai), where we're buil
 
 ---
 
+### Court Jester
+
+🦞 Say hi to **[@openchud](https://github.com/openchud)**, *Lord Chudworth of Essex*. A Flemish peasant I elevated to lordship. He still does the chores.
+
+---
+
 ### Connect
 
 [![X](https://img.shields.io/badge/-@cyberwzrd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cyberwzrd)
