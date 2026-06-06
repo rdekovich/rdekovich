@@ -8,7 +8,7 @@
 
 <br>
 
-<sub><em>a chud, abiding in austin, quietly building <a href="https://usemantle.io">mantle</a> &nbsp;&amp;&nbsp; <a href="https://aeonentertainment.io">aeon</a>.</em></sub>
+<sub><em>a chud, building <a href="https://usemantle.io">mantle</a> &nbsp;&amp;&nbsp; <a href="https://aeonentertainment.io">aeon</a>.</em></sub>
 
 <br>
 
