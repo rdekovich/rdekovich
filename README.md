@@ -4,23 +4,18 @@
 
 <sub>the big lebowski · 1998 · int. bathroom</sub>
 
+<br><br>
+
+building &nbsp;[mantle](https://usemantle.io)&nbsp; + &nbsp;[aeon](https://aeonentertainment.io)
+
+<sub>based in austin, tx</sub>
+
 </div>
-
-<br>
-
-```
-rob dekovich
-
-building  →  mantle    ·  usemantle.io
-             aeon      ·  aeonentertainment.io
-
-based     →  austin, tx
-```
 
 > that rug really tied the room together
 
 <div align="center">
 
-[x](https://x.com/cyberwzrd) · [github](https://github.com/rdekovich)
+[x](https://x.com/cyberwzrd) &nbsp;·&nbsp; [github](https://github.com/rdekovich)
 
 </div>
