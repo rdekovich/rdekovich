@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="assets/the-dude.png" alt="The Dude" width="620">
+<br>
 
-<sub>the big lebowski · 1998 · int. bathroom</sub>
+<img src="assets/the-dude.png" alt="the dude" width="480">
 
-<br><br>
+<sub><em>the big lebowski · 1998 · int. bathroom</em></sub>
 
-building &nbsp;[mantle](https://usemantle.io)&nbsp; + &nbsp;[aeon](https://aeonentertainment.io)
+<br>
 
-<sub>based in austin, tx</sub>
+<sub><em>a chud, abiding in austin, quietly building <a href="https://usemantle.io">mantle</a> &nbsp;&amp;&nbsp; <a href="https://aeonentertainment.io">aeon</a>.</em></sub>
 
-</div>
+<br>
 
-> that rug really tied the room together
-
-<div align="center">
-
-[x](https://x.com/cyberwzrd) &nbsp;·&nbsp; [github](https://github.com/rdekovich)
+<sub><a href="https://x.com/cyberwzrd">x</a> &nbsp;·&nbsp; <a href="https://github.com/rdekovich">github</a></sub>
 
 </div>
